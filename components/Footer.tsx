@@ -9,9 +9,16 @@ function Footer() {
           <a className='link link-hover'>SERVICES</a>
           <a className='link link-hover'>PRICE LIST</a>
         </div>
-       
+
         <div>
-          <p>Copyright © 2022 - Made with love by <a className='text-blue-400' href="https://github.com/sacsbrainz"> SACS INC</a> All right reserved </p>
+          <p>
+            Copyright © 2022 - Made with love by{' '}
+            <a className='text-blue-400' href='https://github.com/sacsbrainz'>
+              {' '}
+              SACS INC
+            </a>{' '}
+            All right reserved{' '}
+          </p>
         </div>
       </footer>
     </div>

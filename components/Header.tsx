@@ -42,7 +42,7 @@ function Header() {
               height={40}
             />
             <span className='px-4 font-extrabold uppercase tracking-wide text-white sm:text-sm md:text-lg lg:text-xl'>
-            JPalace
+              JPalace
             </span>
           </a>
         </Link>
@@ -76,7 +76,7 @@ function Header() {
             </svg>
           )}
         </button>
-     
+
         <div className={`${active ? '' : 'hidden'}   w-full lg:inline-flex lg:w-auto lg:flex-grow`}>
           <div className='flex w-full flex-col items-start capitalize md:px-10 lg:ml-auto lg:inline-flex lg:h-auto  lg:w-auto lg:flex-row lg:items-center'>
             <Link href='/'>
@@ -97,7 +97,7 @@ function Header() {
 
             <Link href='#testimonies'>
               <a className='w-full items-center justify-center rounded px-3 py-2 text-[#e0e0e2]  lg:inline-flex lg:w-auto  '>
-              Testimonies
+                Testimonies
               </a>
             </Link>
             <Link href='#services'>
