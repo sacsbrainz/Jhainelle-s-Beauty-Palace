@@ -272,7 +272,7 @@ function Homepage() {
       </div>
       <a
         className='fixed bottom-10 right-5'
-        href='https://api.whatsapp.com/send/?phone=09023960932&text=Jhainelle’s+Beauty+Palace&app_absent=0'
+        href='https://api.whatsapp.com/send/?phone=+2349023960932&text=Jhainelle’s+Beauty+Palace&app_absent=0'
       >
         <div className=' rounded-full bg-slate-700 p-2'>
           <svg
